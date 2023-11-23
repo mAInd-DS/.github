@@ -6,4 +6,6 @@
 [프로젝트 기간] 2023.03-2023.11(약 9개월)<br>
 [사용 툴 & 개발 언어] React, Javascript, Python, Flask, Springboot, AWS EC2,<br>
 WebRTC, OpenCV, KoBERT, Amazon Transcribe, Visual Studio Code, Pycharm, MySQL, Figma<br>
-[역할] 이은수 - 프론트엔드 | 장지원 - 기획, 백엔드 | 천윤서 - 인공지능
+[역할] 이은수 - 프론트엔드 | 장지원 - 기획, 백엔드 | 천윤서 - 인공지능<br>
+[사이트] www.mAInd.site<br>
+[성과] 덕성여자대학교 2023학년도 과학기술대학 학술제 우수상 수상<br>
